@@ -1,0 +1,47 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">Andre Jaya Velg</string>
+    <string name="email">Email</string>
+    <string name="password">Katasandi</string>
+    <string name="repeat_password">Masukan kembali katasandi</string>
+    <string name="generic_error">Sesuatu yang salah terjadi. Silakan coba lagi.</string>
+    <string name="email_error">Masukkan email yang valid.</string>
+    <string name="cancel">Batal</string>
+    <string name="try_again">Coba lagi</string>
+
+    <!-- LoginScreen -->
+    <string name="sign_in">Masuk</string>
+    <string name="login_details">Masukkan detail login Anda</string>
+    <string name="forgot_password">Tidak ingat kata sandi? Klik untuk mendapatkan email pemulihan</string>
+    <string name="recovery_email_sent">Periksa kotak masuk Anda untuk email pemulihan.</string>
+    <string name="empty_password_error">Kata sandi tidak boleh kosong.</string>
+
+    <!-- SignUpScreen -->
+    <string name="create_account">Buat akun</string>
+    <string name="password_error">Kata sandi Anda harus memiliki setidaknya enam digit dan termasuk satu digit, satu huruf kecil dan satu huruf besar.</string>
+    <string name="password_match_error">Sandi tidak cocok.</string>
+
+    <!-- TasksScreen -->
+    <string name="tasks">Dashboard</string>
+
+    <!-- EditTaskScreen -->
+    <string name="edit_task">Edit item</string>
+    <string name="title">Nama barang</string>
+    <string name="description">Deskripsi barang</string>
+    <string name="url">Jumlah</string>
+    <string name="date">Tanggal</string>
+    <string name="time">Waktu</string>
+    <string name="flag">Beri tanda flag</string>
+    <string name="priority">Kualitas</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings">Pengaturan</string>
+    <string name="sign_out">Keluar</string>
+    <string name="delete_my_account">Hapus akun</string>
+
+    <!-- Dialogs -->
+    <string name="sign_out_title">ingin Keluar?</string>
+    <string name="sign_out_description">Anda harus masuk lagi untuk melihat catatan Anda.</string>
+    <string name="delete_account_title">Hapus akun?</string>
+    <string name="delete_account_description">Anda akan kehilangan semua catatan Anda dan akun Anda akan dihapus. Tindakan ini tidak dapat diubah.</string>
+</resources>
